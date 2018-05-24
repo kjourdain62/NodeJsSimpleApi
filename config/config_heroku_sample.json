@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "user",
+    "password": "password",
+    "database": "database",
+    "host": "*******.eu-west-1.compute.amazonaws.com",
+    "ssl": true,
+    "port":5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  },
+  "test": {
+    "username": "user",
+    "password": "password",
+    "database": "database",
+    "host": "*******.eu-west-1.compute.amazonaws.com",
+    "ssl": true,
+    "port":5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  },
+  "production": {
+    "username": "user",
+    "password": "password",
+    "database": "database",
+    "host": "*******.eu-west-1.compute.amazonaws.com",
+    "ssl": true,
+    "port":5432,
+    "dialect": "postgres",
+    "dialectOptions": {
+      "ssl": true
+    }
+  }
+}
